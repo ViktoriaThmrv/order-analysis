@@ -1,6 +1,6 @@
 # Order-Analysis
 
-This repository contains SQL queries and analysis conducted as part of a guided project based on ["Advanced SQL Retrieval Queries in SQLiteStudio" by Judy Richardson](https://www.coursera.org/projects/advanced-sql-retrieval-queries-in-sqlitestudio).
+This repository contains SQL queries and analysis conducted as part of a guided project based on ["Advanced SQL Retrieval Queries in SQLiteStudio" by Judy Richardson](https://www.coursera.org/projects/advanced-sql-retrieval-queries-in-sqlitestudio), along with additional SQL code authored by me.
 
 ## Overview
 
